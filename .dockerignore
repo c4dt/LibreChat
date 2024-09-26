@@ -1,12 +1,5 @@
-**/.circleci
-**/.editorconfig
-**/.dockerignore
-**/.git
-**/.DS_Store
-**/.vscode
-**/node_modules
-
 # Specific patterns to ignore
+node_modules
 data-node
 meili_data*
 librechat*
